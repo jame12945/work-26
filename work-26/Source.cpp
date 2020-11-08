@@ -22,7 +22,7 @@ int main()
     }
     value = result;
     mypointer = &value;
-    printf(" The number of  all star is %d\n", *mypointer);
+    printf("The number of  all star is %d\n", *mypointer);
   
     for (i= 1; i <= rows; i++)
     {
